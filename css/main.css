@@ -1,0 +1,25 @@
+body {
+  background-color:#d13e4a;
+  font-family: "Playfair Display", serif;
+}
+
+.grid {
+  background-color: #999;
+  margin: 1rem;
+}
+
+.unica {
+  font-family: "Unica One", sans-serif;
+}
+
+.illusory {
+  z-index: 0;
+  color: #fff;
+  bottom: -.6rem;
+  right: 0;
+  opacity: .7;
+}
+
+.first {
+  z-index: 10000;
+}
